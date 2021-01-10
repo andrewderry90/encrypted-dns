@@ -22,7 +22,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use 1.1.1.1 DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>SMARTER DNS PROFILE MADE BY FOX IRELAND LAB</string>
+			<string>SMARTER DNS MADE BY FOX IRELAND LAB LTD</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the 1.1.1.1 Security DNS Profile made by Fox Ireland Lab to macOS Big Sur and iOS 14 or higher </string>
+	<string>SMARTER DNS MADE BY FOX IRELAND LAB LTD</string>
 	<key>PayloadDisplayName</key>
-	<string>SMARTER DNS PROFILE MADE BY FOX IRELAND LAB</string>
+	<string>SMARTER DNS MADE BY FOX IRELAND LAB LTD</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
