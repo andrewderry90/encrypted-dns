@@ -22,7 +22,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures device to use 1.1.1.1 DNS over HTTPS Profile Made by Fox Ireland Lab</string>
 			<key>PayloadDisplayName</key>
-			<string>USE 1.1.1.1 DoH</string>
+			<string>1.1.1.1 DoH</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
