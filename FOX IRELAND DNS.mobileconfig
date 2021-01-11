@@ -17,7 +17,7 @@
 					<string>1.0.0.2</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://odoh.cloudflare-dns.com/dns-query</string>
+				<string>https://warp.cloudflare-dns.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use 1.1.1.1 DNS over HTTPS Profile Made by Fox Ireland Lab</string>
