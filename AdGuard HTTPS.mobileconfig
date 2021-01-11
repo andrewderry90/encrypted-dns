@@ -20,9 +20,9 @@
 				<string>https://dns.adguard.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Adguard Default Encrypted DNS over HTTPS</string>
+			<string>Configures device to use AdGuard DNS over HTTPS Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
-			<string>Adguard Default DNS over HTTPS</string>
+			<string>AdGuard DoH</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.e17cf1fa-0f0f-48a9-a68b-395804ed1850</string>
 			<key>PayloadType</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Adguard Default DNS to Big Sur and iOS 14 based systems</string>
+	<string>CONFIGURES YOUR IOS OR MACOS DEVICE FOR USE WITH ADGUARD DNS OVER HTTPS (PROFILE DESIGNED FOR MACOS 11.0 AND IOS 14 OR HIGHER MADE BY FOX IRELAND LAB BY ANDREW DERRY IN MANCHESTER, ENGLAND : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>Adguard Default DNS over HTTPS</string>
+	<string>AdGuard DoH</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
