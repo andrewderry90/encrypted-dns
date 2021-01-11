@@ -16,7 +16,7 @@
 					<string>94.140.14.14</string>
 					<string>94.140.15.15</string>
 				</array>
-				<key>ServerURL</key>
+				<key>ServerName</key>
 				<string>dns.adguard.com</string>
 			</dict>
 			<key>PayloadDescription</key>
@@ -28,7 +28,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>28b90644-fc1e-409a-81e7-939598fee661</string>
+			<string>ffee2c6b-9cff-4c2a-892c-e03788bcbd64</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -46,7 +46,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>A4475135-633A-4F15-A79B-BE15093DC97A</string>
+	<string>36F1938F-2141-4EF1-BA24-05D12CEF440B</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
