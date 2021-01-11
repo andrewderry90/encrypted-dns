@@ -8,27 +8,27 @@
 			<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>
-				<string>HTTPS</string>
+				<string>TLS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>2a10:50c0::bad1:ff</string>
-					<string>2a10:50c0::bad2:ff</string>
-					<string>94.140.14.15</string>
-					<string>94.140.15.16</string>
+					<string>2606:4700:4700::1112</string>
+					<string>2606:4700:4700::1002</string>
+					<string>1.1.1.2</string>
+					<string>1.0.0.2</string>
 				</array>
-				<key>ServerURL</key>
-				<string>https://dns-family.adguard.com/dns-query</string>
+				<key>ServerName</key>
+				<string>security.cloudflare-dns.com</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use AdGuard Family Protection Encrypted DNS over HTTPS</string>
+			<string>Configures device to use 1.1.1.2 DNS over TLS Profile Made by Fox Ireland Lab</string>
 			<key>PayloadDisplayName</key>
-			<string>AdGuard Family Protection DNS over HTTPS</string>
+			<string>1.1.1.2 DoT</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.56f69d61-c1d2-422b-989a-adeeb1b6ddc0</string>
+			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>1cda01f8-b05b-4b0d-8675-44eeb5290564</string>
+			<string>35d5c8a0-afa6-4b36-a9fe-099a997b44ad</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the AdGuard Family Protection DNS to Big Sur and iOS 14 based systems</string>
+	<string>CONFIGURES YOUR IOS OR MACOS DEVICE FOR USE WITH 1.1.1.2 DNS OVER TLS (PROFILE MADE BY FOX IRELAND LAB : FoxIrelandLab.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>AdGuard Family Protection DNS over HTTPS</string>
+	<string>1.1.1.2 TLS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -46,7 +46,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>A4475135-633A-4F15-A79B-BE15093DC97A</string>
+	<string>32E01895-86AB-40AE-ACD2-4460D584EA35</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
