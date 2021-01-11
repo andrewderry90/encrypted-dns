@@ -38,7 +38,7 @@
 	<key>PayloadDescription</key>
 	<string>CONFIGURES YOUR IOS OR MACOS DEVICE FOR USE WITH QUAD9 DNS OVER HTTPS (PROFILE MADE BY FOX IRELAND LAB : FoxIrelandLab.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>Quad 9 DoH</string>
+	<string>Quad9 DoH</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
