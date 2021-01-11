@@ -13,9 +13,9 @@
 				<string>https://doh.opendns.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use OpenDNS Encrypted DNS over HTTPS</string>
+			<string>Configures device to use OpenDNS DNS over HTTPS Profile Made by Fox Ireland Lab</string>
 			<key>PayloadDisplayName</key>
-			<string>OpenDNS DNS over HTTPS Standard</string>
+			<string>OpenDNS DoH</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.684b6631-98ef-4534-ab68-baa22a4a3b81</string>
 			<key>PayloadType</key>
@@ -29,9 +29,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the OpenDNS DNS to Big Sur and iOS 14 based systems</string>
+	<string>CONFIGURES YOUR IOS OR MACOS DEVICE FOR USE WITH OpenDNS DNS OVER HTTPS (PROFILE MADE BY FOX IRELAND LAB : FoxIrelandLab.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>OpenDNS Encrypted DNS</string>
+	<string>OpenDNS DoH</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
