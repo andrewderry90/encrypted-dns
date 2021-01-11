@@ -20,9 +20,9 @@
 				<string>dns.google</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Google Encrypted DNS over TLS</string>
+			<string>Configures device to use Google DNS over TLS Profile Made by Fox Ireland Lab</string>
 			<key>PayloadDisplayName</key>
-			<string>Google DNS over TLS</string>
+			<string>Google DoT</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.f0ffd552-7183-4f2e-86e5-ee1ecad2a53a</string>
 			<key>PayloadType</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Google DNS to Big Sur and iOS 14 based systems</string>
+	<string>CONFIGURES YOUR IOS OR MACOS DEVICE FOR USE WITH GOOGLE DNS OVER TLS (PROFILE MADE BY FOX IRELAND LAB : FoxIrelandLab.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>Google Encrypted DNS over TLS</string>
+	<string>Google DoT</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
