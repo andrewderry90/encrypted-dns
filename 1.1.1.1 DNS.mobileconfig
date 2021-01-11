@@ -20,9 +20,9 @@
 				<string>https://cloudflare-dns.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Cloudflare Encrypted DNS over HTTPS</string>
+			<string>Configures device to use 1.1.1.1 DNS over HTTPS Profile Made by Fox Ireland Lab</string>
 			<key>PayloadDisplayName</key>
-			<string>Cloudflare DNS over HTTPS</string>
+			<string>1.1.1.1 DoH</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Cloudflare DNS to Big Sur and iOS 14 based systems</string>
+	<string>CONFIGURES YOUR IOS OR MACOS DEVICE FOR USE WITH 1.1.1.1 DNS OVER HTTPS (PROFILE MADE BY FOX IRELAND LAB : FoxIrelandLab.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>Cloudflare DNS over HTTPS</string>
+	<string>1.1.1.1 DoH</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
