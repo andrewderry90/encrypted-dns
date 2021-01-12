@@ -20,7 +20,7 @@
 				<string>https://protected.canadianshield.cira.ca/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use CIRA Canadian Shield DNS over HTTPS Profile Made by Fox Ireland Lab Ltd</string>
+			<string>Configures device to use CIRA Canadian Shield Protected DNS over HTTPS Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
 			<string>CIRA Canadian Shield DoH</string>
 			<key>PayloadIdentifier</key>
