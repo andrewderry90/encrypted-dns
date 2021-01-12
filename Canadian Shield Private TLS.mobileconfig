@@ -20,9 +20,9 @@
 				<string>private.canadianshield.cira.ca</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Canadian Shield DNS over TLS Profile Made by Fox Ireland Lab Ltd</string>
+			<string>Configures device to use CIRA Canadian Shield Private DNS over TLS Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
-			<string>Canadian Shield DoT</string>
+			<string>CIRA Canadian Shield DoT</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>CONFIGURES YOUR IOS OR IPADOS OR MACOS DEVICE FOR USE WITH Canadian Shield DNS OVER TLS (PROFILE DESIGNED FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
+	<string>CONFIGURES YOUR IOS OR IPADOS OR MACOS DEVICE FOR USE WITH CIRA CANADIAN SHIELD PRIVATE DNS OVER TLS (PROFILE DESIGNED FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>Canadian Shield DoT</string>
+	<string>CIRA Canadian Shield DoT</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
