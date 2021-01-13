@@ -20,7 +20,7 @@
 				<string>protected.canadianshield.cira.ca</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>This profile enables Canadian Shield Protected on all networks using the new native Encrypted DNS over TLS feature. Profile Made by Fox Ireland Lab Ltd</string>
+			<string>This profile enables CIRA Canadian Shield Protected on all networks using the new native Encrypted DNS over TLS feature. Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
 			<string>CIRA Canadian Shield DoT</string>
 			<key>PayloadIdentifier</key>
@@ -36,7 +36,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile enables Canadian Shield Protected on all networks using the new native Encrypted DNS over TLS feature. (PROFILE DESIGNED FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
+	<string>This profile enables CIRA Canadian Shield Protected on all networks using the new native Encrypted DNS over TLS feature. (PROFILE DESIGNED FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
 	<string>CIRA Canadian Shield DoT</string>
 	<key>PayloadIdentifier</key>
