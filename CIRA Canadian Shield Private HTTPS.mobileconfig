@@ -20,7 +20,7 @@
 				<string>https://private.canadianshield.cira.ca/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use CIRA Canadian Shield Private DNS over HTTPS Profile Made by Fox Ireland Lab Ltd</string>
+			<string>This profile enables CIRA Canadian Shield Private on all networks using the new native Encrypted DNS over Https feature. Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
 			<string>CIRA Canadian Shield DoH</string>
 			<key>PayloadIdentifier</key>
@@ -36,7 +36,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>CONFIGURES YOUR IOS IPADOS OR OR MACOS DEVICE FOR USE WITH CIRA CANADIAN SHIELD PRIVATE DNS OVER HTTPS (PROFILE DESIGNED FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
+	<string>This profile enables CIRA Canadian Shield Private on all networks using the new native Encrypted DNS over Https feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
 	<string>CIRA Canadian Shield DoH</string>
 	<key>PayloadIdentifier</key>
