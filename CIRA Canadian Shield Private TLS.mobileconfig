@@ -40,7 +40,7 @@
 	<key>PayloadDisplayName</key>
 	<string>FOX IRELAND DNS FRAME</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.foxirelandlab.apple-dns</string>
 	<key>PayloadOrganization</key>
 	<string>Fox Ireland Lab Ltd.</string>
 	<key>PayloadRebootSuggested</key>
