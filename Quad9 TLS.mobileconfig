@@ -36,11 +36,15 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile enables Quad9 on all networks using the new native Encrypted DNS over TLS feature. FOX IRELAND DNS FRAME. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
+	<string>This profile enables Quad9 on all networks using the new native Encrypted DNS over TLS feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>Quad9 DoT</string>
+	<string>FOX IRELAND DNS FRAME</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.foxirelandlab.apple-dns</string>
+	<key>PayloadOrganization</key>
+	<string>Fox Ireland Lab Ltd.</string>
+	<key>PayloadRebootSuggested</key>
+	<true/>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
