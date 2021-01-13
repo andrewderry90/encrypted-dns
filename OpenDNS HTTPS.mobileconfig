@@ -13,7 +13,7 @@
 				<string>https://doh.opendns.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use OpenDNS DNS over HTTPS Profile Made by Fox Ireland Lab Ltd</string>
+			<string>This profile enables OpenDNS on all networks using the new native Encrypted DNS over Https feature. FOX IRELAND DNS FRAME. Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
 			<string>OpenDNS DoH</string>
 			<key>PayloadIdentifier</key>
@@ -29,7 +29,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>CONFIGURES YOUR IOS OR IPADOS OR MACOS DEVICE FOR USE WITH OPENDNS DNS OVER HTTPS (PROFILE DESIGNED FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
+	<string>This profile enables OpenDNS on all networks using the new native Encrypted DNS over Https feature. FOX IRELAND DNS FRAME. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
 	<string>OpenDNS DoH</string>
 	<key>PayloadIdentifier</key>
