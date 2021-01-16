@@ -16,13 +16,13 @@
 					<string>9.9.9.9</string>
 					<string>149.112.112.112</string>
 				</array>
-				<key>ServerName</key>
+				<key>ServerURL</key>
 				<string>https://dns.quad9.net/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>This profile enables Quad9 on all networks using the new native Encrypted DNS over Https feature. FOX IRELAND DNS FRAME. Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
-			<string>Quad9 DoH</string>
+			<stringQuad9 DoH</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.1a93b54b-8541-4536-8302-c08159ca9184</string>
 			<key>PayloadType</key>
@@ -36,11 +36,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile enables Quad9 on all networks using the new native Encrypted DNS over Https feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
+	<string>This profile enables Quad9 on all networks using the new native Encrypted DNS over TLS feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
 	<string>FOX IRELAND DNS FRAME</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.foxirelandlab.apple-dns</string>
 	<key>PayloadOrganization</key>
 	<string>Fox Ireland Lab Ltd.</string>
 	<key>PayloadRebootSuggested</key>
