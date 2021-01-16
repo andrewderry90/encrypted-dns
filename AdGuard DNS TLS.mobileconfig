@@ -17,10 +17,10 @@
 					<string>94.140.15.15</string>
 				</array>
 				<key>ServerURL</key>
-				<string>dns.adguard.com/dns-query</string>
+				<string>dns.adguard.com</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>This profile enables AdGuard DNS on all networks using the new native Encrypted DNS over TLS feature. FOX IRELAND DNS FRAME. Profile Made by Fox Ireland Lab Ltd<</string>
+			<string>This profile enables AdGuard DNS on all networks using the new native Encrypted DNS over TLS feature. FOX IRELAND DNS FRAME. Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
 			<string>AdGuard DoT</string>
 			<key>PayloadIdentifier</key>
@@ -41,6 +41,8 @@
 	<string>FOX IRELAND DNS FRAME</string>
 	<key>PayloadIdentifier</key>
 	<string>com.foxirelandlab.apple-dns</string>
+	<key>PayloadRebootSuggested</key>
+	<true/>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
