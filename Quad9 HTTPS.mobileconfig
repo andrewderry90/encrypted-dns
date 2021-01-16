@@ -43,8 +43,6 @@
 	<string>com.foxirelandlab.apple-dns</string>
 	<key>PayloadOrganization</key>
 	<string>Fox Ireland Lab Ltd.</string>
-	<key>PayloadRebootSuggested</key>
-	<true/>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
