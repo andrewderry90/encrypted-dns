@@ -20,9 +20,9 @@
 				<string>dns.adguard.com</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Google Encrypted DNS over TLS</string>
+			<string>This profile enables AdGuard DNS on all networks using the new native Encrypted DNS over Https feature. FOX IRELAND DNS FRAME. Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
-			<string>Google DNS over TLS</string>
+			<string>AdGuard DoH</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.f0ffd552-7183-4f2e-86e5-ee1ecad2a53a</string>
 			<key>PayloadType</key>
@@ -36,11 +36,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Adds the Google DNS to Big Sur and iOS 14 based systems</string>
+	<string>This profile enables AdGuard DNS on all networks using the new native Encrypted DNS over Https feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>Google Encrypted DNS over TLS</string>
+	<string>FOX IRELAND DNS FRAME</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.foxirelandlab.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
