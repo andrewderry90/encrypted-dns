@@ -13,10 +13,10 @@
 				<array>
 					<string>2a10:50c0::ad1:ff</string>
 					<string>2a10:50c0::ad2:ff</string>
-					<string>94.140.14.14</string>
+					<string94.140.14.14</string>
 					<string>94.140.15.15</string>
 				</array>
-				<key>ServerURL</key>
+				<key>ServerName</key>
 				<string>dns.adguard.com</string>
 			</dict>
 			<key>PayloadDescription</key>
@@ -24,11 +24,11 @@
 			<key>PayloadDisplayName</key>
 			<string>AdGuard DoT</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.e17cf1fa-0f0f-48a9-a68b-395804ed1850</string>
+			<string>com.apple.dnsSettings.managed.f0ffd552-7183-4f2e-86e5-ee1ecad2a53a</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>28b90644-fc1e-409a-81e7-939598fee661</string>
+			<string>556aa9a6-04bb-4144-9a1b-e1b20cda3b46</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -46,7 +46,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>A4475135-633A-4F15-A79B-BE15093DC97A</string>
+	<string>34D8FE96-E803-4E50-A1E7-94367ABBEAB8</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
