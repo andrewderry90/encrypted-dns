@@ -41,8 +41,6 @@
 	<string>FOX IRELAND DNS FRAME</string>
 	<key>PayloadIdentifier</key>
 	<string>com.foxirelandlab.apple-dns</string>
-	<key>PayloadRebootSuggested</key>
-	<true/>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
