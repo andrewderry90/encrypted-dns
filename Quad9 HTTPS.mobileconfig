@@ -16,11 +16,11 @@
 					<string>9.9.9.9</string>
 					<string>149.112.112.112</string>
 				</array>
-				<key>ServerURL</key>
+				<key>ServerName</key>
 				<string>https://dns.quad9.net/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<stringThis profile enables Quad9 on all networks using the new native Encrypted DNS over Https feature. FOX IRELAND DNS FRAME. Profile Made by Fox Ireland Lab Ltd</string>
+			<string>This profile enables Quad9 on all networks using the new native Encrypted DNS over Https feature. FOX IRELAND DNS FRAME. Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
 			<string>Quad9 DoH</string>
 			<key>PayloadIdentifier</key>
@@ -50,7 +50,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>088A5DC0-0E1F-4699-A56D-A709078D7603</string>
+	<string>36F1938F-2141-4EF1-BA24-05D12CEF440B</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
