@@ -36,15 +36,11 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile enables Quad9 on all networks using the new native Encrypted DNS over Http feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
+	<string>Adds the Quad9 DNS to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>FOX IRELAND DNS FRAME</string>
+	<string>Quad9 Encrypted DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.foxirelandlab.apple-dns</string>
-	<key>PayloadOrganization</key>
-	<string>Fox Ireland Lab Ltd.</string>
-	<key>PayloadRebootSuggested</key>
-	<true/>
+	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
