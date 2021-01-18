@@ -20,9 +20,9 @@
 				<string>https://security.cloudflare-dns.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>This profile enables secure DNS provided Cloudflare on all networks using the new native Encrypted DNS over Https feature. Profile Made by Fox Ireland Lab Ltd</string>
+			<string>This profile enables secure DNS provided by Cloudflare on all networks using the new native Encrypted DNS over Https feature. Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
-			<string>Secure DNS/string>
+			<string>Secure DNS</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile enables secure DNS provided Cloudflare on all networks using the new native Encrypted DNS over Https feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
+	<string>This profile enables secure DNS provided by Cloudflare on all networks using the new native Encrypted DNS over Https feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>FOX IRELAND SECURE DNS</string>
+	<string>FOX IRELAND Secure DNS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.foxirelandlab.apple-dns</string>
 	<key>PayloadOrganization</key>
