@@ -17,7 +17,7 @@
 					<string>94.140.15.15</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://dns.google/dns-query</string>
+				<string>https://dns.adguard.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>This profile enables secure DNS provided by AdGuard on all networks using the new native Encrypted DNS over Https feature. Profile Made by Fox Ireland Lab Ltd</string>
