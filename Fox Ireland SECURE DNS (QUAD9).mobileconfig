@@ -17,7 +17,7 @@
 					<string>149.112.112.112</string>
 				</array>
 				<key>ServerURL</key>
-				<string>https://security.cloudflare-dns.com/dns-query</string>
+				<string>>https://dns.quad9.net/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>This profile enables secure DNS provided by CleanerDNS (Quad9) -on all networks using the new native Encrypted DNS over Https feature. Profile Made by Fox Ireland Lab Ltd</string>
