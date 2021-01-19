@@ -7,15 +7,10 @@
 		<dict>
 			<key>DNSSettings</key>
 			<dict>
+				<key>DNSSettings</key>
+			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array>
-					<string>2620:119:35::35</string>
-					<string>2620:119:53::53</string>
-					<string>208.67.222.222</string>
-					<string>208.67.220.220</string>
-				</array>
 				<key>ServerURL</key>
 				<string>https://doh.opendns.com/dns-query</string>
 			</dict>
@@ -24,11 +19,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Secure DNS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.1a93b54b-8541-4536-8302-c08159ca9184</string>
+			<string>com.apple.dnsSettings.managed.684b6631-98ef-4534-ab68-baa22a4a3b81</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>ffee2c6b-9cff-4c2a-892c-e03788bcbd6</string>
+			<string>0fedcb81-3c3d-4604-b90e-12ee51bdaee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -50,7 +45,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>088A5DC0-0E1F-4699-A56D-A709078D7603</string>
+	<string>9877ACF3-420D-4E25-B3B8-96C8EB82A907</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
