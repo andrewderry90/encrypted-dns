@@ -20,7 +20,7 @@
 				<string>https://security.cloudflare-dns.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>This profile enables secure DNS provided by CleanerDNS (Quad9) on all networks using the new native Encrypted DNS over Https feature. Profile Made by Fox Ireland Lab Ltd</string>
+			<string>This profile enables secure DNS provided by CleanerDNS (Quad9) -on all networks using the new native Encrypted DNS over Https feature. Profile Made by Fox Ireland Lab Ltd</string>
 			<key>PayloadDisplayName</key>
 			<string>Secure DNS</string>
 			<key>PayloadIdentifier</key>
