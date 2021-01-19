@@ -36,7 +36,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This profile enables secure DNS provided by Cloudflare (1.1.1.2 : Malware Blocking) on all networks using the new native Encrypted DNS over Https feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB BY ANDREW DERRY : WWW.FOXIRELANDLAB.UK)</string>
+	<string>This profile enables secure DNS provided by Cloudflare (1.1.1.2 : Malware Blocking) on all networks using the new native Encrypted DNS over Https feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB LTD : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
 	<string>FOX IRELAND Secure DNS</string>
 	<key>PayloadIdentifier</key>
