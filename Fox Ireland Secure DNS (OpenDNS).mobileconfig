@@ -7,8 +7,6 @@
 		<dict>
 			<key>DNSSettings</key>
 			<dict>
-				<key>DNSSettings</key>
-			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
@@ -19,11 +17,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Secure DNS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.f0ffd552-7183-4f2e-86e5-ee1ecad2a53a</string>
+			<string>com.apple.dnsSettings.managed.684b6631-98ef-4534-ab68-baa22a4a3b81</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>556aa9a6-04bb-4144-9a1b-e1b20cda3b46</string>
+			<string>0fedcb81-3c3d-4604-b90e-12ee51bdaee1</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -33,7 +31,7 @@
 	<key>PayloadDescription</key>
 	<string>This profile enables secure DNS provided by Cisco Systems (OpenDNS) on all networks using the new native Encrypted DNS over Https feature. (PROFILE DESIGNED AND MADE FOR MACOS 11.0, IPADOS 14 AND IOS 14 OR HIGHER. MADE BY FOX IRELAND LAB LTD : WWW.FOXIRELANDLAB.UK)</string>
 	<key>PayloadDisplayName</key>
-	<string>FOX IRELAND Secure DNS</string>
+	<string>FOX IRELAND SECURE DNS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.foxirelandlab.apple-dns</string>
 	<key>PayloadOrganization</key>
@@ -45,7 +43,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>B27E8E10-697D-4938-8745-7FFEEEED57A0</string>
+	<string>9877ACF3-420D-4E25-B3B8-96C8EB82A907</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
